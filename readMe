@@ -1,6 +1,10 @@
 ReadMe file
 
-To run the application, you will need to run the following commands in Terminal:
+You can visit https://blackjack-js-group-project.herokuapp.com/ to see this app in action;
+
+Alternatively, you can host locally
+
+To run the application locally you will need to run the following commands in Terminal:
 
 npm install
 
@@ -9,7 +13,5 @@ npm run build
 
 npm run server:dev
 //this must also run continuously in the background
-
-
 
 now direct your browser to http://localhost:3000
